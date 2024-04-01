@@ -1,8 +1,0 @@
-ctrl_interface=/var/run/wpa_supplicant
-ctrl_interface_group=0
-update_config=1
-
-network={
-        ssid="Mazl"
-        psk=1ce37b515faab0be6a3a27d73b04bea12e29517967eb1a8a081d4e992c1b8365
-}
