@@ -1,0 +1,12 @@
+[submodule "poky"]
+	path = poky
+	url = https://github.com/yoctoproject/poky
+[submodule "meta-linux4space"]
+	path = meta-linux4space
+	url = https://gitlab.com/linux4space/yocto/meta-linux4space
+[submodule "meta-arm"]
+	path = meta-arm
+	url = git://git.yoctoproject.org/meta-arm
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded

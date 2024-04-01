@@ -1,0 +1,6 @@
+build/*
+build/cache/*
+build/deploy-ti/*
+build/downloads/*
+build/sstate-cache/*
+build/tmp-glibc/*
